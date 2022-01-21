@@ -13,7 +13,7 @@ M Yardan Aqiella | 8020190028 | 04PT5 Pemrograman Website II
 
 ## Database Table
 
-![App Screenshot](https://elearning.unama.ac.id/pluginfile.php/59248/mod_assign/intro/Screen-Shot-2022-01-16-at-10.34.07.png)
+![App Screenshot](https://i.ibb.co/TcB1DWF/Screen-Shot-2022-01-16-at-10-34-07.png)
 
 
 ## Route List
